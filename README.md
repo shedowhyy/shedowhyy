@@ -1,12 +1,12 @@
-## Vii Userbot
+## Userbot
 ```
 apt update && apt upgrade -y
 ```
 ```
-git clone https://github.com/aleeesio/ubotalfnew
+git clone https://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@github.com/shedowhyy/shedowhyy
 ```
 ```
-cd ubott && screen -S ubott
+cd shedowhyy && screen -S shedowhyy
 ```
 ```
 apt install ffmpeg -y
@@ -18,7 +18,7 @@ bash installnode.sh
 apt install python3.10-venv
 ```
 ```
-python3 -m venv venv && source venv/bin/activate
+python3 -m venv shedowhyy && source shedowhyy/bin/activate
 ```
 ```
 pip3 install -r requirements.txt
@@ -27,7 +27,7 @@ pip3 install -r requirements.txt
 cp sample.env .env && nano .env
 ```
 ```
-screen -S ubott
+screen -S shedowhyy
 ```
 ```
 python3 -m PyroUbot
